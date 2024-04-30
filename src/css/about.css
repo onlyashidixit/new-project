@@ -1,0 +1,45 @@
+#aboutus{
+    display: flex;
+    flex-direction: row;
+    gap: 20rem;
+    height: 100%;
+    margin-top: 14rem;
+    margin-bottom: 12rem;
+}
+.abt-te , .abt-img{
+    width: 20rem;
+    
+}
+.abt-te{
+    margin-left: 14rem;
+    margin-top: 6rem;
+}
+.banner{
+    color: #192439;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    padding: 2rem;
+}
+.a-btn{
+    width: 8rem;
+    height: auto;
+    background: #192439;
+    color: #fff;
+    padding: 0.6rem;
+    margin-top: 10px;
+    border-radius: 4rem;
+    font-weight: 700;
+    border: none;
+    
+}
+.icons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 3rem;
+    font-size: 2rem;
+    gap: 1rem;
+}

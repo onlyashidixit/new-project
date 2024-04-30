@@ -1,0 +1,66 @@
+.bimg{
+    width: 100%;
+    object-fit: cover;
+
+}
+.c-ht{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   position: relative;
+   bottom: 15rem; 
+   flex-direction: column;
+   color: #fff;
+}
+.ui{
+    padding: 1rem;
+    width: 100%;
+    background-color: #192439;
+    color: #fff;
+    position: relative;
+    bottom: 10rem;
+   
+}
+.about-internship{
+    display:flex;
+    flex-direction: row;
+    gap: 24rem;
+    margin-bottom: 7rem;
+}
+.abt-te{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.cyber-text{
+    text-align: center;
+
+}
+.skill{
+    margin: 14rem 4rem 14rem 12rem;
+    
+}
+.skill-title{
+    margin-bottom: 10rem;
+}
+.skill-image{
+    display: flex;
+    flex-direction: row;
+    gap: 3rem;
+}
+.img-test2{
+    inline-size: 100%;
+    aspect-ratio: 10/4;
+    object-fit: contain;
+    margin-bottom: 1rem;
+   
+
+}
+.skill-te{
+    margin-top: 4rem;
+    
+   
+    
+ 
+}

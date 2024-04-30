@@ -1,0 +1,148 @@
+.act-us {
+    color: #192439;
+  }
+  .contact-us1 {
+    position: absolute;
+    top: 16.75rem;
+    left: 32.25rem;
+    font-weight: 600;
+  }
+  .rectangle-icon {
+    position: absolute;
+    top: 61.063rem;
+    left: 26.875rem;
+    width: 26.375rem;
+    height: 24.375rem;
+    object-fit: cover;
+  }
+  .frame-child {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: var(--color-white);
+    border-bottom: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 18.5rem;
+    height: 3.125rem;
+  }
+  .your-name {
+    position: absolute;
+    top: 1.813rem;
+    left: 0;
+    letter-spacing: -0.02em;
+  }
+  .frame-item,
+  .rectangle-parent {
+    position: absolute;
+    width: 18.5rem;
+    height: 3.125rem;
+  }
+  .rectangle-parent {
+    top: 3rem;
+    left: 3.5rem;
+  }
+  .frame-item {
+    top: 0;
+    left: 0;
+    border-bottom: 1px solid var(--color-black);
+    box-sizing: border-box;
+  }
+  .email-address {
+    position: absolute;
+    top: 1.875rem;
+    left: 0;
+    letter-spacing: -0.02em;
+  }
+  .rectangle-container,
+  .rectangle-group {
+    position: absolute;
+    top: 6.125rem;
+    left: 3.5rem;
+    width: 18.5rem;
+    height: 3.125rem;
+  }
+  .rectangle-container {
+    top: 9.25rem;
+  }
+  .rectangle-div {
+    position: absolute;
+    top: 0;
+    left: -0.625rem;
+    border: 1px solid #909090;
+    box-sizing: border-box;
+    width: 19.125rem;
+    height: 9.375rem;
+  }
+  .write-your-message {
+    position: absolute;
+    top: 0.625rem;
+    left: 0;
+    letter-spacing: -0.02em;
+  }
+  .frame-child1,
+  .frame-div {
+    position: absolute;
+    top: 14.313rem;
+    left: 4rem;
+    width: 18.5rem;
+    height: 9.375rem;
+  }
+  .frame-child1 {
+    top: 29.875rem;
+    left: 18.563rem;
+    border-radius: 27px;
+    background-color: #8f8f8f;
+    width: 5.438rem;
+    height: 1.563rem;
+  }
+  .sign-up {
+    position: absolute;
+    top: 30.188rem;
+    left: 20.125rem;
+    letter-spacing: -0.02em;
+    font-weight: 600;
+    color: var(--color-white);
+  }
+  .frame-child2 {
+    position: absolute;
+    top: 25rem;
+    left: 17.438rem;
+    border-radius: 20px;
+    background-color: #9163cb;
+    width: 5.375rem;
+    height: 2.25rem;
+  }
+  .send {
+    position: absolute;
+    top: 25.5rem;
+    left: 19rem;
+    font-size: 1rem;
+    color: var(--color-white);
+  }
+  .contact-us,
+  .frame-parent {
+    background-color: var(--color-white);
+    overflow: hidden;
+  }
+  .frame-parent {
+    position: absolute;
+    top: 26.25rem;
+    left: 26.875rem;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    width: 26.5rem;
+    height: 28.625rem;
+    font-size: var(--font-size-xs);
+    color: var(--color-black);
+  }
+  .contact-us {
+    width: 100%;
+    position: relative;
+    height: 97.563rem;
+    text-align: left;
+    font-size: 2.75rem;
+    color: #ffd300;
+    font-family: var(--font-inter);
+  }
+  

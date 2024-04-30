@@ -1,0 +1,45 @@
+.home{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-bg{
+    width: 100%;
+    height: 40.3rem;
+
+}
+.home-te{
+    position: absolute;
+    bottom:15rem;
+    left: 28rem;
+    color: #ffff;
+    text-align: center;
+}
+.h-btn{
+    width: 8rem;
+    height: auto;
+    border: 1px solid #ffff;
+    background: transparent;
+    color: #fff;
+    padding: 0.6rem;
+    margin-top: 3rem;
+    border-radius: 4rem;
+}
+.news-btn{
+    position: relative;
+    top: 15rem;
+    font-size: 20px;
+    width: 40rem;
+    height: 6rem;
+    border: 1px solid #ffff;
+    background: #192439;
+    color: #fff;
+    padding: 0.6rem;
+    border-top-right-radius: 9rem;
+    border-top-left-radius: 9rem;
+}
+.heading{
+    position: relative;
+    top: 3rem;
+}

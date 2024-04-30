@@ -1,0 +1,38 @@
+footer {
+    
+    background-color: #192439;
+    color: #fff;
+    font-weight: 400;
+  }
+  .footer-content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  .footer-logo {
+    padding-top: 36px;
+  }
+  .footer-h2,
+  .footer-li,
+  .footer-img {
+    padding-bottom: 1rem;
+  }
+  i {
+    padding-left: 13px;
+    position: relative;
+    bottom: -6rem;
+    font-size: 1.5rem;
+  }
+  button:hover {
+    background-color: #fff;
+    border: 0.1px solid rgb(101, 101, 101);
+    color: #192439;
+    cursor: pointer;
+  }
+  .container2 {
+    display: flex;
+    justify-content: space-evenly;
+  }
+  ul{
+    list-style-type: none;
+  }
